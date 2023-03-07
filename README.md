@@ -1,1 +1,1 @@
-"**Strong** First" 
+**Strong** First
